@@ -1,0 +1,12 @@
+{
+  "deviceSpecifications": [
+    {
+      "screenDensity": 320,
+      "supportedAbis": ["x86", "armeabi-v7a"],
+      "supportedLocales": ["en-US"],
+      "deviceType": "PHONE",
+      "screenBrightness": "BRIGHT",
+      "screenHdr": "NON_HDR"
+    }
+  ]
+}
